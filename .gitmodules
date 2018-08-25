@@ -1,0 +1,3 @@
+[submodule "a_project"]
+	path = a_project
+	url = git@blue.github.com:blue-rubiks/a_project.git
